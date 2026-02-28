@@ -7,27 +7,39 @@
 
 ## 👋 Olá! Eu sou o Augusto Cesar
 
-Sou estudante de **Ciência da Computação** e atualmente estou focado em **desenvolvimento full-stack**, estudando e construindo aplicações web completas com front-end e back-end.
+Sou estudante de **Ciência da Computação**, com foco em **Ciência de Dados**.  
+Meu objetivo é transformar dados em informação estratégica por meio de análise, modelagem e visualização.
 
-### 🎯 Foco atual
-- 💻 Desenvolvimento **Full-Stack**
-- 📚 Formação Full-Stack pela **[Rocketseat](https://www.rocketseat.com.br/)**
-- 📚 Formação SYCP (Solyd Certified Pentester) pela **[Solyd](https://solyd.com.br/)**
-- 🧠 Aprendizado contínuo com projetos práticos
+### 🎯 Foco Atual
+- 📊 Análise Exploratória de Dados (EDA)
+- 📈 Estatística aplicada
+- 🗄️ Modelagem e consulta em bancos de dados
+- 🧠 Construção de projetos práticos com dados reais
 
-### 🛠️ Tecnologias e estudos
+### 🛠️ Stack de Dados
 <p>
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white"/>
 </p>
 
-### 🚀 O que você vai encontrar aqui
-- projetos de **front-end e back-end**
-- aplicações em **JavaScript, Node.js, React e Python**
-- projetos focados em aprendizado prático
+### 📂 O que você vai encontrar aqui
+- Projetos de **Análise Exploratória de Dados**
+- Estudos de **crises econômicas e comportamento de mercado**
+- Construção de dashboards interativos
+- Aplicações de estatística para tomada de decisão
+- Pipelines simples de coleta e tratamento de dados
+
+### 📚 Formação e Estudos
+- Formação Banco de Dados — Rocketseat  
+- Formação Full-Stack Python — Udemy (Luiz Otávio Miranda)  
+- Estudo contínuo em Estatística e Ciência de Dados
 
 ### 📫 Onde me encontrar
 <p>
@@ -39,5 +51,6 @@ Sou estudante de **Ciência da Computação** e atualmente estou focado em **des
   </a>
 </p>
 
+  </td>
   </tr>
 </table>
